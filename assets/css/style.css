@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+body {
+    
+}
+
+.bild {
+    
+    background: url("../images/IMG_0863.JPG") no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.test {
+    padding: 26px 0;
+    background-color: #85f52a;
+    color: #ffb71b;
+    border-radius: 60%;
+   font-size: 20px;
+    border-color: #fafafa;
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+#fest {
+    padding-bottom: 50px;
+    color: #f50808;
+    padding-top: 40px;
+    text-align: center;
+    text-transform: uppercase;
+}
