@@ -37,3 +37,10 @@ body {
     text-align: center;
     text-transform: uppercase;
 }
+
+.form {
+    color: #f50808;
+    background-color: #444;
+    position: center;
+    
+}
